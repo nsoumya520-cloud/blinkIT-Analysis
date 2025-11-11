@@ -53,6 +53,6 @@ All queries are implemented in `blinkIT_Solutions.sql`.
 ---
 
 ## 🧑‍💻 Author
-**Sai Teja Betamcharla**  
+**Soumya Ranjan Nayak**  
 📍 Hyderabad, Telangana  
-📧 betamcharlasaiteja@gmail.com
+📧 nsoumya520@gmail.com
